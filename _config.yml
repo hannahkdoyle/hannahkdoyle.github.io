@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Hannah Doyle"
-  avatar : "/assets/images/avi.jpg"
+  avatar : "/assets/images/avi.JPG"
   bio    : "1st year PhD student in EECS at UC Berkeley"
   links:
     - label: "Website"
