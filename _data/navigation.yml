@@ -1,9 +1,5 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "embroidery"
     url: /embroidery/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "about me"
     url: /about/
