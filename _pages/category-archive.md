@@ -53,7 +53,21 @@ gallery:
   - url: /assets/embroidery/suninrain.jpg
     image_path: /assets/embroidery/suninrain.jpg
     title: "Kathi Burg's Sun in Rain cover art"
-
+  - url: /assets/embroidery/peach.jpg
+    image_path: /assets/embroidery/peach.jpg
+    title: "chain-stitched peach"
+  - url: /assets/embroidery/an_heart.jpg
+    image_path: /assets/embroidery/an_heart.jpg
+    title: "anatomical heart"
+  - url: /assets/embroidery/heart.jpg
+    image_path: /assets/embroidery/heart.jpg
+    title: "multicolor heart"
+  - url: /assets/embroidery/stella.jpg
+    image_path: /assets/embroidery/stella.jpg
+    title: "Stella Donnelly's Beware of the Dogs cover art"
+  - url: /assets/embroidery/face.jpg
+    image_path: /assets/embroidery/face.jpg
+    title: "a face"
 ---
 
 {% include gallery caption="" %}
