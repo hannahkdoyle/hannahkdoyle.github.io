@@ -59,14 +59,14 @@ gallery:
   - url: /assets/embroidery/an_heart.jpg
     image_path: /assets/embroidery/an_heart.jpg
     title: "anatomical heart"
-  - url: /assets/embroidery/heart.jpg
-    image_path: /assets/embroidery/heart.jpg
+  - url: /assets/embroidery/heart.JPG
+    image_path: /assets/embroidery/heart.JPG
     title: "multicolor heart"
   - url: /assets/embroidery/stella.jpg
     image_path: /assets/embroidery/stella.jpg
     title: "Stella Donnelly's Beware of the Dogs cover art"
-  - url: /assets/embroidery/face.jpg
-    image_path: /assets/embroidery/face.jpg
+  - url: /assets/embroidery/face.JPG
+    image_path: /assets/embroidery/face.JPG
     title: "a face"
 ---
 
