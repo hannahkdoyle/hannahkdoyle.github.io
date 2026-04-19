@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "Hannah Doyle"
-  avatar : "/assets/images/avi.JPG"
-  bio    : "1st year PhD student in EECS at UC Berkeley"
+  avatar : "/assets/images/headshot.png"
+  bio    : "5th year PhD candidate in EECS at UC Berkeley"
   links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
@@ -67,9 +67,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hannahkdoyle"
-    - label: "Spotify"
-      icon: "fab fa-spotify"
-      url: "https://open.spotify.com/user/valsal47?si=8cea421391a74916"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/hannahkdoyle/"
     - label: "Mail"
       icon: "fas fa-envelope-square"
       url: "mailto:hannahdoyle@berkeley.edu"
