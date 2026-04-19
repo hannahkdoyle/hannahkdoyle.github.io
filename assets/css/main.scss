@@ -9,8 +9,8 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-$body-color: yellow;
+$body-color: black;
 $background-color: white;
-$text-color: red;
+$text-color: black;
 $link-color: blue;
 $masthead-link-color: pink;
