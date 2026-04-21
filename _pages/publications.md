@@ -1,7 +1,6 @@
 ---
-permalink: /
+permalink: /publications/
 title: "publications"
-excerpt: "publications"
 redirect_from: 
   - /publications/
   - /publications.html
