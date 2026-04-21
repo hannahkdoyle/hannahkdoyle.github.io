@@ -2,7 +2,6 @@
 permalink: /
 title: "publications"
 excerpt: "publications"
-author_profile: true
 redirect_from: 
   - /publications/
   - /publications.html
@@ -14,4 +13,4 @@ J. Fong*, H. K. Doyle*, C. Wang*, A. E. Boehm, S. R. Herbeck, V. P. Pandiyan, B.
 
 H. K. Doyle, S. R. Herbeck, A. E. Boehm, J. E. Vanston, R. Ng, W. S. Tuten, A. Roorda; Boosting 2-photon vision with adaptive optics. J. Vis. 2023;23(12):4. [link](https://doi.org/10.1167/jov.23.12.4)
 
-A. Senanian, L. G. Wright, P. F. Wade, H. K. Doyle, P. L. McMahon; Programmable large-scale simulation of bosonic transport in optical synthetic frequency lattices. Nat. Phys. 2023;19(9):1333-1339. [link] (https://doi.org/10.1038/s41567-023-02075-7)
+A. Senanian, L. G. Wright, P. F. Wade, H. K. Doyle, P. L. McMahon; Programmable large-scale simulation of bosonic transport in optical synthetic frequency lattices. Nat. Phys. 2023;19(9):1333-1339. [link](https://doi.org/10.1038/s41567-023-02075-7)
